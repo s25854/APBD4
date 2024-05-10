@@ -1,0 +1,59 @@
+Index: .idea/.idea.WebApplication3/.idea/indexLayout.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.WebApplication3/.idea/indexLayout.xml b/.idea/.idea.WebApplication3/.idea/indexLayout.xml
+new file mode 100644
+--- /dev/null	(date 1715256217122)
++++ b/.idea/.idea.WebApplication3/.idea/indexLayout.xml	(date 1715256217122)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="UserContentModel">
++    <attachedFolders />
++    <explicitIncludes />
++    <explicitExcludes />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.idea.WebApplication3/.idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.WebApplication3/.idea/vcs.xml b/.idea/.idea.WebApplication3/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1715256217126)
++++ b/.idea/.idea.WebApplication3/.idea/vcs.xml	(date 1715256217126)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.idea.WebApplication3/.idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.idea.WebApplication3/.idea/.gitignore b/.idea/.idea.WebApplication3/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1715256217160)
++++ b/.idea/.idea.WebApplication3/.idea/.gitignore	(date 1715256217160)
+@@ -0,0 +1,13 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Rider ignored files
++/modules.xml
++/contentModel.xml
++/.idea.WebApplication3.iml
++/projectSettingsUpdater.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
